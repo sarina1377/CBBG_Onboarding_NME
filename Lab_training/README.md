@@ -1,1 +1,1 @@
-Please refer to all hands lab safety.ppt for general lab safety guidelines. For additional info go to each subfolder for your campus.
+Please refer to the respective subfolder for your campus for lab safety guidelines and additional info.
