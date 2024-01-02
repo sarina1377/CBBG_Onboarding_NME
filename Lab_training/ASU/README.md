@@ -1,0 +1,1 @@
+Please start by reading "all hands lab mtng fall 22.pptx". This is a detailed lab safety guideline prepared by Katie Currier. Additional info on how to order supplies and connect to the ASU network outside of campus is also documented in the respective files.
