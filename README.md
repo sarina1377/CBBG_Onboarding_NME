@@ -11,7 +11,7 @@ This repository is divided into two main folders:
 ### 1. Onboarding
 
 This folder contains the initial steps and resources for new member onboarding:
-1. CBBG Student List: The [list](https://docs.google.com/spreadsheets/d/1B1oPSaMuJu5faaf05YFeOBY_c31J-Ucp/edit?rtpof=true) of all CBBG students is updated as new students join or graduate. This needs to be constantly updated by everyone.
+1. **CBBG Student List**: The [list](https://docs.google.com/spreadsheets/d/1B1oPSaMuJu5faaf05YFeOBY_c31J-Ucp/edit?rtpof=true) of all CBBG students is updated as new students join or graduate. This needs to be constantly updated by everyone.
 2. **CBBG_Onboarding_Guide.ppt** - Start with this presentation to understand the scope of CBBG's research and activities.
    - **Page 5 Highlight**: Introduction to CBBG's 4 research thrusts. Identify which thrust aligns with your research.
 3. **CBBG_MOU_Onboarding.doc** - [Memorandum of Understanding](https://github.com/sarina1377/CBBG_Onboarding_NME/blob/main/Onboarding/CBBG%20MOU%20onboarding%20doc.pdf) that needs to be signed and submitted to Charlotte Bowens (charlotte.bowens@asu.edu).
