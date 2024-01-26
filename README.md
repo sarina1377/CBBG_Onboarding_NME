@@ -15,7 +15,7 @@ This folder contains the initial steps and resources for new member onboarding:
 1. **CBBG_Onboarding_Guide.ppt** - Start with this presentation to understand the scope of CBBG's research and activities.
    - **Page 5 Highlight**: Introduction to CBBG's 4 research thrusts. Identify which thrust aligns with your research.
 2. **CBBG_MOU_Onboarding.doc** - Memorandum of Understanding that needs to be signed and submitted to Charlotte Bowens (charlotte.bowens@asu.edu).
-3. **Committee_Selection_Form_Link** - A direct link to a form where you can select a committee to contribute to, along with adding your contact info.
+3. **Committee_Selection_Form_Link** - A direct [link](https://docs.google.com/spreadsheets/d/1_A0jRY9E_ccodqEvCLSn8mYewqJIJkGJ7O7LqLltM_k/edit) to a form where you can select a committee to contribute to, along with adding your contact info.
 4. **CBBG_Data_Profile_Updater** - [Link](https://cbbg.engineering.asu.edu/cbbg-database/) to the database for updating your profile annually or post-publication.
 5. **Additional_Resources**: A collection of additional CBBG resources. Ensure you are taking full advantage of the community's offerings.
    - **BioGeotechNotes**: Receive news, reminders, and announcements every Tuesday. If you are not receiving these, email Emma Buchanan (egbuchan@mainex1.asu.edu).
